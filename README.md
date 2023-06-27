@@ -8,8 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPRO20&count_private=true&title_color=fff&text_color=FFF&hide_border=true&bg_color=0d1117&langs_count=7&layout=compact" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ViniciusPRO20&bg_color=0d1117&color=fff&line=925107&point=e3c60d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vinicius-viana-672006240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
