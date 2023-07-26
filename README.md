@@ -13,6 +13,11 @@
 <a href="https://www.linkedin.com/in/vinicius-viana-672006240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<h1>About me:</h1>
+<p>Olá eu sou o Vinicius tenho 19 anos
+e estou cursando o 3º semestre de análise e desenvolvimento de sistemas.
+Estou focado em aprender o desenvolvimento Front-End, tenho experiência com HTML, CSS, Javascript e Git. Agora estou me especializando em React e futuramente planejo aprender React-Native, já realizei projetos pessoais com React e Next envolvendo API`s e banco de dados. </p>
+
 ### Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
