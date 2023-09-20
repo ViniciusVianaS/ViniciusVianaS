@@ -15,8 +15,8 @@
 
 <h1>About me:</h1>
 <p>Olá eu sou o Vinicius tenho 19 anos
-e estou cursando o 3º semestre de análise e desenvolvimento de sistemas.
-Estou focado em aprender o desenvolvimento Front-End, tenho experiência com HTML, CSS, Javascript e Git. Agora estou me especializando em React e futuramente planejo aprender React-Native, já realizei projetos pessoais com React e Next envolvendo API`s e banco de dados. </p>
+e estou cursando o 4º semestre de análise e desenvolvimento de sistemas.
+Estou focado em aprender o desenvolvimento Front-End, tenho experiência com HTML, CSS, Javascript e React. Agora estou me especializando em React-Native e futuramente planejo aprender o desenvolvimento back-end, já realizei projetos pessoais com React e Next envolvendo API`s e banco de dados. Também tenho experiência com banco de dados SQL, NOSQL, e também com o sistema de controle de versões Git. Estou agora na busca de vagas para estágio ou dev junior, para que eu possa evoluir como pessoa e como desenvolvedor.</p>
 
 ### Main skills:
 <div style="display: inline_block"><br>
@@ -33,8 +33,6 @@ Estou focado em aprender o desenvolvimento Front-End, tenho experiência com HTM
 ### Studying in this moment:
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Vini-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
   
 
