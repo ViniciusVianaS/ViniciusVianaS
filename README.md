@@ -18,7 +18,7 @@
 ### About me:
 <p>Olá eu sou o Vinicius tenho 19 anos
 e estou cursando o 4º semestre de análise e desenvolvimento de sistemas.
-Estou focado em aprender o desenvolvimento Front-End, tenho experiência com HTML, CSS, Javascript e React. Agora estou me especializando em React-Native e futuramente planejo aprender o desenvolvimento back-end, já realizei projetos pessoais com React e Next envolvendo API`s e banco de dados. Também tenho experiência com banco de dados SQL, NOSQL, e também com o sistema de controle de versões Git. Estou agora na busca de vagas para estágio ou dev junior, para que eu possa evoluir como pessoa e como desenvolvedor.</p>
+Estou focado em aprender o desenvolvimento Web, tenho experiência com HTML, CSS, Javascript, React, Next e PHP. Agora estou me especializando em React-Native e futuramente planejo aprender o desenvolvimento back-end, já realizei projetos pessoais com React e Next envolvendo API`s e banco de dados. Também tenho experiência com banco de dados SQL, NOSQL, e também com o sistema de controle de versões Git. Estou agora na busca de vagas para estágio ou dev junior, para que eu possa evoluir como pessoa e como desenvolvedor.</p>
 
 ### Main skills:
 <div style="display: inline_block"><br>
