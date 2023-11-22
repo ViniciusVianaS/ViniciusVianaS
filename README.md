@@ -20,14 +20,20 @@
 e estou cursando o 4º semestre de análise e desenvolvimento de sistemas.
 Estou focado em aprender o desenvolvimento Web, tenho experiência com HTML, CSS, Javascript, React, Next e PHP. Agora estou me especializando em React-Native e futuramente planejo aprender o desenvolvimento back-end, já realizei projetos pessoais com React e Next envolvendo API`s e banco de dados. Também tenho experiência com banco de dados SQL, NOSQL, e também com o sistema de controle de versões Git. Estou agora na busca de vagas para estágio ou dev junior, para que eu possa evoluir como pessoa e como desenvolvedor.</p>
 
-### Main skills:
+### Front-end development:
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vini-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Vini-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Vini-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</div>
+
+### Back-end development:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vini-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Vini-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Vini-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
