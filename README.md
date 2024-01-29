@@ -11,7 +11,7 @@
 
 ## About me:
 👋 Olá eu sou o Vinicius tenho 19 anos
-e estou cursando o 4º semestre de análise e desenvolvimento de sistemas.
+e sou formado em análise e desenvolvimento de sistemas.
 Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next e PHP,
 💻 e atualmente trabalho como desenvolvedor Front End.
 
