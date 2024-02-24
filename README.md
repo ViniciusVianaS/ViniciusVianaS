@@ -10,7 +10,7 @@
 <img src="https://github.com/ViniciusPRO20/ViniciusPRO20/assets/115045547/dd1f9130-be75-4018-b5d3-6b391ce6f9c4"/>
 
 ## About me:
-👋 Olá eu sou o Vinicius! Tenho 19 anos,
+👋 Olá eu sou o Vinicius! Tenho 20 anos,
 sou formado em análise e desenvolvimento de sistemas,
 e sou desenvolvedor Front End.
 Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next e PHP,
