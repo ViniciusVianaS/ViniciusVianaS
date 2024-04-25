@@ -14,7 +14,7 @@
 sou formado em análise e desenvolvimento de sistemas,
 e sou desenvolvedor.
 Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next e PHP,
-💻 e atualmente trabalho como desenvolvedor.
+💻 e sou desenvolvedor.
 
 <div align="center" style="display: inline_block"><br>
   
