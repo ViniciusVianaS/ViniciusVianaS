@@ -13,8 +13,7 @@
 👋 Olá eu sou o Vinicius! Tenho 20 anos,
 sou formado em análise e desenvolvimento de sistemas,
 e sou desenvolvedor.
-Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next e PHP,
-💻 e sou desenvolvedor.
+Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next e PHP 💻.
 
 <div align="center" style="display: inline_block"><br>
   
