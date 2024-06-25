@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Viana;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<img src="https://github.com/ViniciusPRO20/ViniciusPRO20/assets/115045547/dd1f9130-be75-4018-b5d3-6b391ce6f9c4"/>
+<hr />
 
 <div align="center">  
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusPRO20&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPRO20&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
-<img src="https://github.com/ViniciusPRO20/ViniciusPRO20/assets/115045547/dd1f9130-be75-4018-b5d3-6b391ce6f9c4"/>
+<hr />
 
 ## About me:
 👋 Olá eu sou o Vinicius! Tenho 20 anos,
@@ -29,7 +29,7 @@ Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, PHP e Larav
   <img align="center" alt="Tailwind" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </div>
 <br />
-<img src="https://github.com/ViniciusPRO20/ViniciusPRO20/assets/115045547/dd1f9130-be75-4018-b5d3-6b391ce6f9c4"/>
+<hr />
 <div align="center" style="display: inline_block"><br>
   
   # Back-End development:
