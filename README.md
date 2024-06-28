@@ -42,8 +42,18 @@ Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, PHP e Larav
   <img align="center" alt="Laravel" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<br />
+<hr />
+<div align='center' style='display: inline_block'><br>
 
+ # DevOps:
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="center" alt="Github" height="30" width="30" src="https://github.com/ViniciusPRO20/ViniciusPRO20/assets/115045547/84345c4e-ec7b-4bb2-83fb-4762a6a4e1b1" />
+<img align="center" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 
+</div>
+<br />
+<hr />
 <div align="center">  
   
   # Contact:
