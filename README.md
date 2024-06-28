@@ -7,7 +7,7 @@
 <div align="center">
 <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPRO20&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=fff0" />
  
- <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPRO20&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=ViniciusPRO20&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 </div>
 
 <hr />
