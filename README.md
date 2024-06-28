@@ -2,10 +2,10 @@
 <div align="center"><img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></div>
 <hr />
 
-<div align="center">  
+<div align="center">
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPRO20&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=fff0" />
+ 
  <img align='right' src="https://github-readme-stats.vercel.app/api?username=ViniciusPRO20&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPRO20&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=fff0" />
 </div>
 
 <hr />
