@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Viana;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8efd4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Viana;+:%29)](https://git.io/typing-svg)
 <div align="center">
  <a href='https://github.com/ViniciusPRO20'><img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
 </div>
 <hr />
 
 <div align="center">
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPRO20&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=fff0" />
+<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPRO20&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=fff0" />
  
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=ViniciusPRO20&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+ <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPRO20&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 </div>
 
 <hr />
