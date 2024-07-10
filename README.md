@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8efd4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Viana;+:%29)](https://git.io/typing-svg)
 <div align="center">
- <a href='https://github.com/ViniciusPRO20'><img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
+ <a href='https://github.com/ViniciusVianaS'><img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
 </div>
 <hr />
 
 <div align="center">
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPRO20&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=fff0" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVianaS&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=fff0" />
  
- <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=ViniciusPRO20&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&include_all_commits=true&count_private=true" alt="ilustração do status do github">
+ <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=ViniciusVianaS&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&include_all_commits=true&count_private=true" alt="ilustração do status do github">
 </div>
 
 <br />
@@ -52,7 +52,7 @@ Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, PHP e Larav
 
  # DevOps:
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="center" alt="Github" height="30" width="30" src="https://github.com/ViniciusPRO20/ViniciusPRO20/assets/115045547/84345c4e-ec7b-4bb2-83fb-4762a6a4e1b1" />
+<img align="center" alt="Github" height="30" width="30" src="https://github.com/ViniciusVianaS/ViniciusVianaS/assets/115045547/84345c4e-ec7b-4bb2-83fb-4762a6a4e1b1" />
 <img align="center" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 
 </div>
