@@ -35,7 +35,7 @@ Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, PHP e Larav
   
   # Back-End development:
 
-  [![My Skills](https://skillicons.dev/icons?i=js,php,laravel,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
   
 </div>
 <br />
