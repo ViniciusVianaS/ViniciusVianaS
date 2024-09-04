@@ -15,7 +15,7 @@
 ## About me:
 👋 Olá eu sou o Vinicius! Tenho 20 anos,
 sou formado em análise e desenvolvimento de sistemas,
-e sou desenvolvedor Full Stack.
+e sou desenvolvedor Web Full Stack.
 Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, PHP e Laravel. E atualmente trabalho como desenvolvedor back-end aprendiz no @opovoonline 💻
 <br />
 <br />
@@ -35,15 +35,15 @@ Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, PHP e Larav
   
   # Back-End development:
 
-  [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,laravel,python,mysql)](https://skillicons.dev)
   
 </div>
 <br />
 <hr />
 <div style='display: inline_block'><br>
 
- # DevOps:
+ # Ferramentas & DevOps:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode)](https://skillicons.dev)
 
 </div>
