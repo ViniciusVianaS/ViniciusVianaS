@@ -26,7 +26,7 @@ Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, PHP e Larav
   
   # Front-end development:
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,vue,tailwind,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,vue,tailwind,)](https://skillicons.dev)
 
 </div>
 <br />
