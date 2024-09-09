@@ -1,11 +1,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Vinicius%20Viana&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
 
 <div align="center">
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVianaS&layout=compact&theme=dracula" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVianaS&layout=compact&theme=solarized-light" />
  
- <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=ViniciusVianaS&theme=dracula&show_icons=true&cache_seconds=2300&include_all_commits=true&count_private=true" alt="ilustração do status do github">
+ <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=ViniciusVianaS&theme=solarized-light&show_icons=true&cache_seconds=2300&include_all_commits=true&count_private=true" alt="ilustração do status do github">
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusVianaS&theme=dracula">
 </div>
 
 <br />
