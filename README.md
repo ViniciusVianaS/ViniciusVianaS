@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius+Viana;+:%29)](https://git.io/typing-svg)
-<hr />
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Vinicius%20Viana&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
 
 <div align="center">
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVianaS&layout=compact&theme=dracula" />
