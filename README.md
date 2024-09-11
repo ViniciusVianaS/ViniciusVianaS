@@ -14,7 +14,7 @@
 👋 Olá eu sou o Vinicius! Tenho 20 anos,
 sou formado em análise e desenvolvimento de sistemas,
 e sou desenvolvedor Web Full Stack.
-Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, PHP e Laravel. E atualmente trabalho como desenvolvedor back-end aprendiz no @opovoonline 💻
+Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, Vue, PHP e Laravel. E atualmente trabalho como desenvolvedor back-end aprendiz no @opovoonline 💻
 <br />
 <br />
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-viana-672006240)
