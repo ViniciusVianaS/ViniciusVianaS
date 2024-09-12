@@ -33,7 +33,7 @@ Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, Vue, PHP e 
   
   # Back-End development:
 
-  [![My Skills](https://skillicons.dev/icons?i=js,php,laravel,python,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,php,laravel,python)](https://skillicons.dev)
   
 </div>
 <br />
@@ -42,6 +42,6 @@ Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, Vue, PHP e 
 
  # Ferramentas & DevOps:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode)](https://skillicons.dev)
 
 </div>
