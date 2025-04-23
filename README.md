@@ -11,7 +11,7 @@
 <hr />
 
 ## About me:
-👋 Olá eu sou o Vinicius! Tenho 20 anos,
+👋 Olá eu sou o Vinicius! Tenho 21 anos,
 sou formado em análise e desenvolvimento de sistemas,
 e sou desenvolvedor Web Full Stack.
 Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, Vue, PHP e Laravel. E atualmente trabalho como desenvolvedor back-end aprendiz no @opovoonline 💻
