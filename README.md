@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Vinicius%20Viana&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=DEV%20FULLSTACK&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
 
 ## About me:
 👋 Olá eu sou o Vinicius! Sou desenvolvedor Full Stack,
