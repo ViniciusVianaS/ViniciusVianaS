@@ -1,19 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Vinicius%20Viana&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
 
-<div align="center">
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVianaS&layout=compact&theme=github_dark" />
- 
- <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=ViniciusVianaS&theme=github_dark&show_icons=true&cache_seconds=2300&include_all_commits=true&count_private=true" alt="ilustração do status do github">
-
-</div>
-
-<br />
-<hr />
-
 ## About me:
-👋 Olá eu sou o Vinicius! Tenho 21 anos,
-sou formado em análise e desenvolvimento de sistemas,
-e sou desenvolvedor Web Full Stack.
+👋 Olá eu sou o Vinicius! Sou desenvolvedor Full Stack,
+sou formado em análise e desenvolvimento de sistemas. 
 Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, Vue, PHP e Laravel 💻
 <br />
 <br />
@@ -22,26 +11,24 @@ Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, Vue, PHP e 
 
 <div style="display: inline_block"><br>
   
-  # Front-end development:
-  
-  [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,vue,tailwind,)](https://skillicons.dev)
+ <table>
+  	<tr>
+			<td>	
+				<h2> Front-End </h2>
+    				<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,tailwind&perline=12" />
+    				<h2> Back-End </h2>
+				<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs&perline=12" />
+			</td>
+   			<td>
+				<h2> Data Base </h2>
+				<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb&perline=12" />
+   				<h2>
+       					Ferramentas e DevOps
+	    			</h2>
+				<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,figma,windows&perline=12" />
+      			</td>
+		</tr>
+  	<table/>
 
-</div>
-<br />
-<hr />
-<div style="display: inline_block, margin-left: '20px'"><br>
-  
-  # Back-End development:
-
-  [![My Skills](https://skillicons.dev/icons?i=js,php,laravel,python)](https://skillicons.dev)
-  
-</div>
-<br />
-<hr />
-<div style='display: inline_block'><br>
-
- # Ferramentas & DevOps:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode)](https://skillicons.dev)
 
 </div>
