@@ -25,7 +25,7 @@ Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, Vue, PHP e 
    				<h2>
        					Ferramentas e DevOps
 	    			</h2>
-				<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,figma,windows&perline=12" />
+				<img src="https://skillicons.dev/icons?i=git,github,gitlab,windows,postman,figma,docker&perline=12" />
       			</td>
 		</tr>
   	<table/>
