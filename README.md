@@ -2,7 +2,7 @@
 
 ## About me:
 👋 Olá eu sou o Vinicius! Sou desenvolvedor Full Stack,
-sou formado em análise e desenvolvimento de sistemas. 
+sou formado em Análise e Desenvolvimento de Sistemas e estou cursando uma pós graduação em Engenharia de Software. 
 Tenho experiência com HTML, CSS, Tailwind, Javascript, React, Next, Vue, PHP e Laravel 💻
 <br />
 <br />
