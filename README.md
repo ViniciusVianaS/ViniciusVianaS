@@ -3,7 +3,7 @@
 ## About me:
 👋 Olá eu sou o Vinicius! Sou desenvolvedor Full Stack,
 sou formado em Análise e Desenvolvimento de Sistemas e estou cursando uma pós graduação em Engenharia de Software. 
-Tenho experiência com Javascript, Typescript, React, Next, Vue, PHP, Laravel, Python e SQL 💻
+Tenho experiência com Javascript, Typescript, React, Next, Vue, PHP, Laravel, Python e SQL. 💻
 <br />
 <br />
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-viana-672006240)
